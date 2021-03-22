@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Test Game!</h1>
+    
+    <p>
+      Welcome to the game. I am sure it will be a fun experience!
+      <br><br>
+      <button id= "startButton" onclick="startGame()"> Start </button>
+       <button id= "stopButton" class= "hidden"  onclick="stopGame()"> End </button>
+       <div id="gameArea">
+        <button id= "gameButton1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"
+> </button>
+        <button id= "gameButton2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"
+> </button>
+        <button id= "gameButton3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"
+> </button>
+        <button id= "gameButton4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"
+> </button>
+        
+        
+        
+    </div>
+    </p>
+
+
+  </body>
+</html>
