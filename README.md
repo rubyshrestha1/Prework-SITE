@@ -39,22 +39,23 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<br>Gif that shows when the user loses the game: http://g.recordit.co/uAmNKyMLAx.gif
+<br>Gif that shows user wins the game and when user stops the game: http://g.recordit.co/wHyBbYf3nw.gif
 ![](your-link-here)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-Guide provided by CodePath
+<br>I only used the guide provided by CodePath.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I would say video walk through was time consuming rather than challenging. However, I managed to create it. 
+<br>I would say video walk through was time consuming rather than challenging. The gif creation was time consuming as it had to include all the user stories. In order to reduce the processing time, I recorded two gifs: one that shows when user loses the game and the other that shows when the user wins and stops the game.  
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+<br>I am more curious to learn about user interaction and look forward to learning from this program.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+<br>Definitely. I loved playing with the code and observe various results. This entrire project was very exciting as I was creating website that resembled the one used in real world. So, this was very motibating and boosting to me. I would definitely have loved to see more functions and various other techniques to include more features in the websites.
 
 
 ## License
