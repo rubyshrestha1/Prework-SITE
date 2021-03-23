@@ -4,7 +4,7 @@
 
 Submitted by: **Ruby Shrestha**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/prework-ruby?path=index.html%3A16%3A8
 
@@ -38,9 +38,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:<br>
 <br>Gif that shows when the user loses the game: http://g.recordit.co/uAmNKyMLAx.gif
-<br>Gif that shows user wins the game and when user stops the game: http://g.recordit.co/wHyBbYf3nw.gif
+<br>Gif that shows user wins the game: http://g.recordit.co/By1H44c3La.gif
+<br>Gif that shows when the user stops the game in between: http://g.recordit.co/5N3cLNLfLW.gif
 ![](your-link-here)
 
 
@@ -49,18 +50,18 @@ Here's a walkthrough of implemented user stories:
 <br>I only used the guide provided by CodePath.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-<br>I would say video walk through was time consuming rather than challenging. The gif creation was time consuming as it had to include all the user stories. In order to reduce the processing time, I recorded two gifs: one that shows when user loses the game and the other that shows when the user wins and stops the game.  
+<br>I would say video walk through was time consuming rather than challenging. The gif creation was time consuming as it had to include all the user stories. In order to reduce the processing time, I recorded three gifs: one that shows when user loses the game, one that shows when ths user wins the game and the other that shows when the user stops the game.  
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-<br>I am more curious to learn about user interaction and look forward to learning from this program.
+<br>Learning new web development as a new skill was exciting and fun to me. I am more curious to learn about user interaction and look forward to learning that from this program. I am enthusiastic to learn how to make the websites more user friendly.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-<br>Definitely. I loved playing with the code and observe various results. This entrire project was very exciting as I was creating website that resembled the one used in real world. So, this was very motibating and boosting to me. I would definitely have loved to see more functions and various other techniques to include more features in the websites.
+<br>Definitely!! I loved playing with the code and observing various results. This entrire project was very exciting as I was creating website that resembled the one being used in real world. So, this was very motivating and boosting to me. I would definitely have loved to see more functions and various other techniques to include more features in the websites.
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Ruby Shrestha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
