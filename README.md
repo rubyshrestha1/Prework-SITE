@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:<br>
-<br>Gif that shows when the user loses the game: http://g.recordit.co/uAmNKyMLAx.gif
-<br>Gif that shows user wins the game: http://g.recordit.co/By1H44c3La.gif
-<br>Gif that shows when the user stops the game in between: http://g.recordit.co/5N3cLNLfLW.gif
+<br>Gif that shows user losing the game: http://g.recordit.co/uAmNKyMLAx.gif
+<br>Gif that shows user winning the game: http://g.recordit.co/By1H44c3La.gif
+<br>Gif that shows user stoping the game in between: http://g.recordit.co/5N3cLNLfLW.gif
 ![](your-link-here)
 
 
